@@ -2,42 +2,21 @@
 layout: default
 title: HASBLab
 nav_order: 1
-description: "Bienvenidos a HASBLab."
-image: "/assets/images/fondo.png"
+description: "Bienvenidos a EcoUNSCH."
+image: "assets/images/siberhh.png"
 permalink: /
 ---
-<img src="../../../assets/images/fondo.png">
+![fonfo](assets/images/Myem.png)
 
 
-# **BIENVENIDOS!**
+# ¡Bienvenidos a EcoUNSCH!
 
-Somos un grupo de especialistas en investigación comprometidos con tu éxito académico. Ofrecemos servicios de asesoría en investigación científica, análisis estadístico, econométrico y manejo de bases de datos en diversas áreas del conocimiento. Nuestro objetivo es guiarte paso a paso en el desarrollo de tu proyecto de tesis o trabajo de investigación.
+Nos complace darles la bienvenida a nuestra plataforma dedicada al aprendizaje y exploración en el campo de la economía y negocios. Aquí encontrarán una colección de cursos diseñados para profundizar su comprensión en áreas clave de la economía y la investigación de mercados. Nuestro objetivo es proporcionarles herramientas prácticas y teóricas que les permitan analizar y abordar los desafíos económicos con confianza.
 
-**¡Conquista el éxito académico con nuestra asesoría experta en tesis!**
+Explore nuestros cursos, que incluyen economía matemática, microeconomía, investigación de mercados, economía I, y muchos más. Cada curso está diseñado para ofrecerle una experiencia educativa enriquecedora y relevante, respaldada por recursos actualizados y ejemplos del mundo real.
 
-> _**¿Estás en la recta final de tu pregrado o posgrado y necesitas ayuda con tu tesis? ¡No busques más! Nuestro equipo de profesionales está aquí para guiarte en cada paso del camino.**_
+Estamos emocionados de compartir con ustedes nuestros conocimientos y recursos. Esperamos que encuentren aquí una fuente de aprendizaje inspiradora y práctica.
 
----
-
-# **Servicios que ofrecemos**
-
-- Asesoría personalizada en la elección del tema.
-- Orientación en la estructuración y redacción de tu tesis.
-- Apoyo en la investigación y análisis de datos.
-- Revisión y corrección de estilo y ortografía.
-- Elaboración de tesis.
-- Estimación de modelos econométricos.
-- Preparación para la defensa de tu tesis.
-
-# **Beneficios de trabajar con nosotros**
-
-- Asesores con experiencia en una amplia gama de disciplinas.
-- Flexibilidad de horarios para adaptarnos a tu ritmo de vida.
-- Tarifas competitivas y paquetes ajustados a tus necesidades.
-- Compromiso con la calidad y la confidencialidad de tu trabajo.
-
-> _**¡Da el paso hacia tu título con confianza! Contáctanos hoy mismo y descubre cómo podemos ayudarte a alcanzar tus metas académicas.**_
-
----
+¡Bienvenidos de nuevo y disfruten su experiencia de aprendizaje con nosotros!
 
 [**Contáctanos WhatsApp**](https://wa.me/message/CGKEXJDOX4NMB1 "Click aquí")
