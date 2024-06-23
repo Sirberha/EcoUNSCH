@@ -25,6 +25,8 @@ La economía matemática es una rama de la economía que utiliza métodos matem�
 <iframe width="100%" height="600" src="https://nbviewer.org/github/Sirberha/EcoUNSCH/blob/master/archive/introMat.ipynb"></iframe>
 
 
+<iframe width="100%" height="600" src="https://notebooks.gesis.org/binder/jupyter/user/sirberha-ecounsch-a1215fmq/notebooks/archive/introMat.ipynb"></iframe>
+
 Para permitir que los usuarios modifiquen y ejecuten el Jupyter Notebook directamente en tu página, puedes usar Binder. Binder permite crear un entorno interactivo en la nube donde los usuarios pueden ejecutar y modificar el notebook. Aquí tienes cómo hacerlo:
 
 Configurar tu Repositorio para Binder:
