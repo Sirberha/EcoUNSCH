@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Python y la Matemática
+nav_order: 2
+has_children: true
 ---
 
 
