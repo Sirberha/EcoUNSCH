@@ -17,3 +17,9 @@ La economía matemática es una rama de la economía que utiliza métodos matem�
 # Optimización sin Restricciones
 
 # Optimización con Restricciones
+
+
+# Introducción a Python
+
+
+<iframe width="100%" height="600" src="https://nbviewer.org/github/Sirberha/EcoUNSCH/blob/master/archive/introMat.ipynb"></iframe>
