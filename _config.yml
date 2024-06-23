@@ -140,12 +140,4 @@ compress_html:
 
 mathjax:
   source: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_CHTML
-  config: 'MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } })'
-
-nav_order: 2
-has_children: true
-has_toc: true
-
-nav:
-  - title: Ejecuta el Notebook Interactivamente
-    url: /notebook/
+  config: 'MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } })' 

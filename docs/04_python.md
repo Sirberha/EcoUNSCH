@@ -1,38 +1,10 @@
 ---
 layout: default
 title: Python y la Matemática
+parent: Economía Matemática I
 nav_order: 2
-has_children: true
 ---
 
+[![Aquí puedes si quiere ejecutar en Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sirberha/EcoUNSCH/a6ea1be818b036c580d36bd01ddd381fd3d75d1a?filepath=archive%2FintroMat.ipynb)
 
-# Ejecuta el Notebook Interactivamente
-
-<button id="activate-button" onclick="thebelab.bootstrap()">Ejecutar el Notebook</button>
-
-<div class="thebe-source">
-    <pre data-executable="true" data-language="python">
-# Aquí puedes escribir código Python que se podrá ejecutar
-import numpy as np
-import matplotlib.pyplot as plt
-
-x = np.linspace(0, 10, 100)
-y = np.sin(x)
-
-plt.plot(x, y)
-plt.show()
-    </pre>
-</div>
-
-<script src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
-<link rel="stylesheet" href="https://unpkg.com/thebelab@latest/lib/index.css">
-
-<script type="text/x-thebe-config">
-{
-  requestKernel: true,
-  binderOptions: {
-    repo: "Sirberha/EcoUNSCH",
-    ref: "master"
-  }
-}
-</script>
+<iframe width="180%" height="800" src="https://nbviewer.org/github/Sirberha/EcoUNSCH/blob/master/archive/introMat.ipynb"></iframe>
