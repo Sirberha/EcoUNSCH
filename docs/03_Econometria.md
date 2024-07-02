@@ -2,6 +2,7 @@
 layout: default
 title: Econometría I
 image: "../../../assets/images/fondo.png"
+has_children: true
 nav_order: 4
 ---
 

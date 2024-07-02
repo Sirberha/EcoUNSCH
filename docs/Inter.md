@@ -2,6 +2,8 @@
 marp: true
 theme: gaia
 paginate: true
+parent: Econometría I
+nav_order: 1
 header: "Regresión Semilogarítmica"  # Encabezado de las diapositivas
 footer: "Sir Bernabé Huamanculí - HASBLab"  # Pie de página
 style: |
