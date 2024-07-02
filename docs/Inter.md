@@ -1,55 +1,10 @@
 ---
-marp: true
-theme: gaia
-paginate: true
+layout: default
+title: Interpretación de coeficientes 
 parent: Econometría I
 nav_order: 1
-header: "Regresión Semilogarítmica"  # Encabezado de las diapositivas
-footer: "Sir Bernabé Huamanculí - HASBLab"  # Pie de página
-style: |
-  section {
-    font-size: 26px; /* Ajusta el tamaño de fuente de la sección */
-  }
-  .slide {
-    width: 1280px; /* Ancho de la diapositiva */
-    height: 720px; /* Altura de la diapositiva */
-  }
-  h1 {
-    font-size: 38px; /* Tamaño de fuente para h1 */
-    text-align: center;
-  }
-  h2 {
-    font-size: 30px; /* Tamaño de fuente para h2 */
-    text-align: left;
-  }
-  h3 {
-    font-size: 26px; /* Tamaño de fuente para h3 */
-    text-align: center;
-    color: #2dbbbb;
-  }
-  h4 {
-    font-size: 22px; /* Tamaño de fuente para h4 */
-    text-align: left;
-  }
-  h5 {
-    font-size: 18px; /* Tamaño de fuente para h5 */
-    text-align: left;
-  }
 ---
-
-<style scoped>
-  img {
-    display: block;
-    margin: 0 auto;
-  }
-</style>
-
-
 # Interpretación de Coeficientes de una Regresión Semilogarítmica
-
-### Sir Bernabé Huamanculí
-
----
 
 ## Regresión: Log-nivel
 
@@ -61,10 +16,10 @@ $$
 
 **Donde**:
 
-  -  **ln** logaritmo natural
-  -  **ln(salario)** es una variable continua.
-  -  **Sexo** es una variable nominal dicotómica o dummy. Hombre: sexo=1, y Mujer: sexo=0
-  -  **Edad** es una varaible continua.
+- **ln** logaritmo natural
+- **ln(salario)** es una variable continua.
+- **Sexo** es una variable nominal dicotómica o dummy. Hombre: sexo=1, y Mujer: sexo=0
+- **Edad** es una varaible continua.
 
 **¿Cómo se interpretan los coeficientes de este tipo de regresión?**
 
@@ -78,10 +33,10 @@ $$
   \ln(salario_i)= 10 + 0.025Sexo_i + 0.012Edad_i + \epsilon_i
   $$
 
-| Interpretación directa                                                                                                                                               | Interpretación exacta                                                                          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Interpretación directa                                                                                                                                                                              | Interpretación exacta                                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Efecto: $\beta_1 \times 100$**. Ser hombre (sexo = 1) está asociado con un salario aproximadamente 2.5% mayor en comparación con ser mujer, manteniendo las demás variables constantes. | **Efecto $(e^{0.025}-1)\times 100 \approx 2.5\%$**. Entonces, el efecto es igual a la interpretación directa. Por lo tanto esto es equivalente hacer $\beta_1 \times 100$  |
-| **Efecto: $\beta_2 \times 100$**. Por cada año adicional de edad, el salario aumenta en aproximadamente 1.2%, manteniendo las demás variables constantes.  | **Efecto $(e^{0.012}-1)\times 100 \approx 1.2\%$**. Entonces, el efecto es igual a la interpretación directa.  Por lo tanto esto es equivalente hacer $\beta_2 \times 100$  |
+| **Efecto: $\beta_2 \times 100$**. Por cada año adicional de edad, el salario aumenta en aproximadamente 1.2%, manteniendo las demás variables constantes.                                  | **Efecto $(e^{0.012}-1)\times 100 \approx 1.2\%$**. Entonces, el efecto es igual a la interpretación directa.  Por lo tanto esto es equivalente hacer $\beta_2 \times 100$ |
 
 ---
 
@@ -93,10 +48,10 @@ $$
   \ln(salario_i)= 10 + 0.25Sexo_i + 0.52Edad_i + \epsilon_i
   $$
 
-| Interpretación directa                                                                                                                                              | Interpretación exacta                                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|**Efecto: $\beta_1 \times 100$**. Ser hombre (sexo = 1) está asociado con un salario aproximadamente 25% mayor en comparación con ser mujer, manteniendo las demás variables constantes. | **Efecto $(e^{0.25}-1)\times 100 \approx 28\%$**. Entonces, el efecto no es igual a la interpretación directa.                                                                                   |
-|**Efecto: $\beta_2 \times 100$**. Por cada año adicional de edad, el salario aumenta en aproximadamente 52%, manteniendo las demás variables constantes.  | **Efecto $(e^{0.52}-1)\times 100 \approx 68\%$**. Entonces, el efecto no es igual a la interpretación directa. Esto implica que el salario incrementa en un 68% por cada año adicional de edad. |
+| Interpretación directa                                                                                                                                                                             | Interpretación exacta                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Efecto: $\beta_1 \times 100$**. Ser hombre (sexo = 1) está asociado con un salario aproximadamente 25% mayor en comparación con ser mujer, manteniendo las demás variables constantes. | **Efecto $(e^{0.25}-1)\times 100 \approx 28\%$**. Entonces, el efecto no es igual a la interpretación directa.                                                                                   |
+| **Efecto: $\beta_2 \times 100$**. Por cada año adicional de edad, el salario aumenta en aproximadamente 52%, manteniendo las demás variables constantes.                                  | **Efecto $(e^{0.52}-1)\times 100 \approx 68\%$**. Entonces, el efecto no es igual a la interpretación directa. Esto implica que el salario incrementa en un 68% por cada año adicional de edad. |
 
 ---
 
