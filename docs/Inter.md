@@ -3,6 +3,7 @@ layout: default
 title: Interpretación de coeficientes 
 parent: Econometría I
 nav_order: 1
+mathjax: true
 ---
 # Interpretación de Coeficientes de una Regresión Semilogarítmica
 
