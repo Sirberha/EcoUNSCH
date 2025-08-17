@@ -5,9 +5,8 @@ nav_order: 7
 permalink: /docs/code_r
 has_children: true
 mathjax: true
-image: "../../../assets/images/r.png"
 ---
-
+![fondo](../../assets/images/r.png)
 # R code
 
 

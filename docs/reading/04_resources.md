@@ -3,10 +3,9 @@ layout: default
 title: Recursos y fuente
 nav_order: 5
 has_children: false
-image: "../../../assets/images/bok.png"
 permalink: /docs/resources
 ---
-
+![fondo](../../assets/images/bok.png)
 # Resources
 {: .no_toc }
 
