@@ -6,7 +6,7 @@ nav_order: 2
 has_children: true
 mathjax: true
 ---
-![fondo](../assets/images/Myem.png)
+![fondo](../assets/images/eco2.png)
 
 
 
@@ -34,8 +34,8 @@ Algunos de estos ejercicios son extraídos de los libros:
 ## **Prácticas**
 
 * [PC 1](../Ar_EcoI/Exam/PC_1_25.pdf) 
-* [PC 2](../Ar_EcoI/Exam/PC_2_25.pdf) 
-* [PC 3 y 4 ](../Ar_EcoI/Exam/PC_34_25.pdf) 
+* [PC 2](../Ar_EcoI/Exam/PC_2_25.pdf)  [Sol 2](../Ar_EcoI/Exam/PC2_EC_181_2025.pdf) 
+* [PC 3 y 4 ](../Ar_EcoI/Exam/PC_34_25.pdf) [Sol_34 ](../Ar_EcoI/Exam/sol_EC_181_calificada_III_IV_2025.pdf)
 
 ## **Parcial y final**
 
