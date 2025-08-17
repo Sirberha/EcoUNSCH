@@ -10,4 +10,4 @@ mathjax: true
 
 # **Ejercios**
 
-* [PD 1](docs/Ar_EcoI/Exam/PD_1_25_A.pdf) 
+* [PD 1](../Ar_EcoI/Exam/PD_1_25_A.pdf) 
