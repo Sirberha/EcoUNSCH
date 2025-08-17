@@ -6,7 +6,7 @@ description: "Bienvenidos a EcoUNSCH."
 image: "assets/images/siberhh.png"
 permalink: /
 ---
-![fonfo](assets/images/Myem.png)
+![fonfo](assets/images/gf.png)
 
 # ¡Bienvenidos a EcoUNSCH!
 
