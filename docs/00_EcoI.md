@@ -12,7 +12,7 @@ mathjax: true
 
 {: .no_toc }
 
-## Table of contents
+## Tabla de contenidos
 {: .no_toc .text-delta }
 
 1. TOC
@@ -20,16 +20,27 @@ mathjax: true
 
 ---
 
-# **Ejercicios**
+## **Ejercicios**
 
 * [PD 1](../Ar_EcoI/Exam/PD_1_25_A.pdf) 
 * [PD 2](../Ar_EcoI/Exam/PD_2_25_B.pdf) 
 * [PD 3](../Ar_EcoI/Exam/PD_3_25_B.pdf) 
+* [PD 4](../Ar_EcoI/Exam/PD_4_25_B.pdf) 
 
-Algunos de estos ejercicios son extraidos de los libros: 
+Algunos de estos ejercicios son extraídos de los libros: 
 - La Serna, K. y Servan, S. (2018) *Ejercicios de Microeconomía: Un enfoque didáctico para un curso introductorio*
-- Rivera, I. () *Principios de Microeconomía: Un enfoque de sentido común*
+- Rivera, I. (2019) *Principios de Microeconomía: Un enfoque de sentido común*
 
-# **Prácticas**
+## **Prácticas**
+
+* [PC 1](../Ar_EcoI/Exam/PC_1_25.pdf) 
+* [PC 2](../Ar_EcoI/Exam/PC_2_25.pdf) 
+* [PC 3 y 4 ](../Ar_EcoI/Exam/PC_34_25.pdf) 
+
+## **Parcial y final**
+
+* [Examen parcial](../Ar_EcoI/Exam/Parcial_2025.pdf) 
+* [Examen final](../Ar_EcoI/Exam/Final_2025.pdf) 
+
 
 ---
