@@ -2,7 +2,7 @@
 layout: default
 title: Economía Matemática I
 image: "../assets/images/hasbr.png"
-nav_order: 2
+nav_order: 3
 has_children: true
 mathjax: true
 ---

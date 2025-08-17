@@ -8,14 +8,23 @@ permalink: /
 ---
 ![fonfo](assets/images/gf.png)
 
-# ¡Bienvenidos a EcoUNSCH!
+# 🎓 Bienvenido a mi plataforma académica 
 
-Nos complace darles la bienvenida a nuestra plataforma dedicada al aprendizaje y exploración en el campo de la economía y negocios. Aquí encontrarán una colección de cursos diseñados para profundizar su comprensión en áreas clave de la economía y la investigación de mercados. Nuestro objetivo es proporcionarles herramientas prácticas y teóricas que les permitan analizar y abordar los desafíos económicos con confianza.
+Me complace darte la bienvenida a este espacio dedicado al aprendizaje y la exploración en el campo de la economía y los negocios. Esta plataforma funciona como un repositorio de materiales utilizados en mis clases universitarias, y está pensada para apoyar tu formación académica con contenidos claros, actualizados y relevantes.
 
-Explore nuestros cursos, que incluyen economía matemática, microeconomía, investigación de mercados, economía I, y muchos más. Cada curso está diseñado para ofrecerle una experiencia educativa enriquecedora y relevante, respaldada por recursos actualizados y ejemplos del mundo real.
+📚 Aquí encontrarás presentaciones, apuntes y recursos complementarios correspondientes a los cursos que dicto, entre ellos:
+- Economía matemática
+- Microeconomía
+- Investigación de mercados
+- Economía I
+- Entre otros temas especializados
 
-Estamos emocionados de compartir con ustedes nuestros conocimientos y recursos. Esperamos que encuentren aquí una fuente de aprendizaje inspiradora y práctica.
+Cada recurso está diseñado para ayudarte a comprender los fundamentos teóricos y prácticos de la disciplina, y para facilitar el análisis riguroso de los desafíos económicos contemporáneos.
 
-¡Bienvenidos de nuevo y disfruten su experiencia de aprendizaje con nosotros!
+🎯 Mi objetivo es ofrecerte herramientas que fortalezcan tu aprendizaje, promuevan el pensamiento crítico y te preparen para aplicar el conocimiento en contextos reales.
+Gracias por visitar este espacio. Espero que encuentres aquí una fuente útil, clara e inspiradora para tu desarrollo académico.
+
+📥 ¡Explora los materiales y aprovecha al máximo tu experiencia de aprendizaje
+
 
 [**Contáctanos WhatsApp**](https://wa.me/message/CGKEXJDOX4NMB1 "Click aquí")

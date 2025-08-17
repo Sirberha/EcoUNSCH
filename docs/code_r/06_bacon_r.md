@@ -1,10 +1,10 @@
 ---
-title: bacon-decomp
+title: Introducción
 layout: default
 parent: R code
 nav_order: 2
 mathjax: true
-image: "../../../assets/images/DiD.png"
+image: "../../assets/images/DiD.png"
 ---
 
 # Goodman-Bacon decomposition
