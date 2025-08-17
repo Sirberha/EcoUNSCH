@@ -38,7 +38,9 @@ mathjax: true
 * [Examen final](../Ar_EcoI/Exam/Final_2025.pdf) 
 
 ---
+
 Algunos de estos ejercicios son extraídos de los libros: 
 - La Serna, K. y Servan, S. (2018) *Ejercicios de Microeconomía: Un enfoque didáctico para un curso introductorio*
 - Rivera, I. (2019) *Principios de Microeconomía: Un enfoque de sentido común*
+
 ---
