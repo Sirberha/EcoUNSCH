@@ -9,7 +9,6 @@ mathjax: true
 ![fondo](../assets/images/eco2.png)
 
 
-
 {: .no_toc }
 
 ## Tabla de contenidos
@@ -27,10 +26,6 @@ mathjax: true
 * [PD 3](../Ar_EcoI/Exam/PD_3_25_B.pdf) 
 * [PD 4](../Ar_EcoI/Exam/PD_4_25_B.pdf) 
 
-Algunos de estos ejercicios son extraídos de los libros: 
-- La Serna, K. y Servan, S. (2018) *Ejercicios de Microeconomía: Un enfoque didáctico para un curso introductorio*
-- Rivera, I. (2019) *Principios de Microeconomía: Un enfoque de sentido común*
-
 ## **Prácticas**
 
 * [PC 1](../Ar_EcoI/Exam/PC_1_25.pdf) 
@@ -42,5 +37,8 @@ Algunos de estos ejercicios son extraídos de los libros:
 * [Examen parcial](../Ar_EcoI/Exam/Parcial_2025.pdf) 
 * [Examen final](../Ar_EcoI/Exam/Final_2025.pdf) 
 
-
+---
+Algunos de estos ejercicios son extraídos de los libros: 
+- La Serna, K. y Servan, S. (2018) *Ejercicios de Microeconomía: Un enfoque didáctico para un curso introductorio*
+- Rivera, I. (2019) *Principios de Microeconomía: Un enfoque de sentido común*
 ---
