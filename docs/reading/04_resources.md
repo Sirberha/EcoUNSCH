@@ -117,13 +117,6 @@ Josh Angrist (MIT) [<img width="12px" src="https://cdn.jsdelivr.net/npm/simple-i
 
 ---
 
-## Papers
-
-
-
-
----
-
 
 
 
