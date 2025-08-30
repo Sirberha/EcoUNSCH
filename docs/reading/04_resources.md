@@ -68,7 +68,7 @@ Jeffrey Wooldridge [<img width="12px" src="https://cdn.jsdelivr.net/npm/simple-i
 ## Videos y clases en linea
 
 
-[Jonas Peters[(http://web.math.ku.dk/~peters/) has a four part lecture series on YouTube:
+[Jonas Peters](http://web.math.ku.dk/~peters/) has a four part lecture series on YouTube:
 * [Lecture 1](https://www.youtube.com/watch?v=zvrcyqcN9Wo)
 * [Lecture 2](https://www.youtube.com/watch?v=bHOGP5o3Vu0)
 * [Lecture 3](https://www.youtube.com/watch?v=Jp4UcgpVA2I)
