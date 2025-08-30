@@ -28,7 +28,8 @@ mathjax: true
 
 ## **Materiales y libros**
 
-* [Daron Acemoglu, David Laibson, John List - Macroeconomics, Global Edition-Pearson (2021)](/archive/Daron%20_Acemoglu.pdf) 
+* [Daron Acemoglu, David Laibson, John List - Macroeconomics, Global Edition-Pearson (2021)](/archive/Daron_Acemoglu.pdf) 
 
 * [Olivier Blanchard - Macroeconomics, Global Edition-Pearson (2021)](/archive/Macroeconomics.pdf) 
+
 ---
