@@ -63,8 +63,9 @@ exclude:
    - fixtures/
 
 
-include: ["docs"]
-
+include:
+  - docs
+  - archive
 
 # Enable or disable heading anchors
 heading_anchors: true

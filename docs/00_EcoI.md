@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Economía
+permalink: /docs/Ar_EcoI
 image: "../assets/images/hasbr.png"
 nav_order: 2
 has_children: true

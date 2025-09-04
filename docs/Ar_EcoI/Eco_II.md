@@ -30,6 +30,8 @@ mathjax: true
 
 * [Daron Acemoglu, David Laibson, John List - Macroeconomics, Global Edition-Pearson (2021)](/archive/Daron_Acemoglu.pdf) 
 
+* [Daron Acemoglu]({{ site.baseurl }}/archive/Daron_Acemoglu.pdf)
+
 * [Olivier Blanchard - Macroeconomics, Global Edition-Pearson (2021)](/archive/Macroeconomics.pdf) 
 
 ---
