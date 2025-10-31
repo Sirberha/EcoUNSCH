@@ -40,3 +40,5 @@ Estos libros y recursos han sido seleccionados por su valor académico y están 
 * [Félix Jiménez - Elementos de teoría y política macroeconómica para una economía abierta.Tomo II. Ejercicios resueltos, PUCP (2012)]({{ site.baseurl }}/archive/LDE-2012-02b.pdf) 
 
 ---
+
+* [Brochure Economía]({{ site.baseurl }}/archive/Economia.pdf) 
