@@ -15,6 +15,6 @@ mathjax: true
 * [Notas micro 1]({{ site.baseurl }}/archive/CEU/MicroBCRp_1.pdf) 
 * [Notas micro 2]({{ site.baseurl }}/archive/CEU/MicroBCRP_2.pdf) 
 * [Notas micro ositran 2]({{ site.baseurl }}/archive/CEU/microii-2.pdf) 
-* [Notas micro ositran 1]({{ site.baseurl }}/archive/CEU/microii.pdf) 
+* [Notas micro ositran 1]({{ site.baseurl }}/archive/CEU/microii-1.pdf) 
 * [Notas micro osinergmin]({{ site.baseurl }}/archive/CEU/osinergmin.pdf) 
-* [Preguntas micro ]({{ site.baseurl }}/archive/CEU/segundoexamicroii.pdf) 
+* [Preguntas micro ]({{ site.baseurl }}/archive/CEU/segundoexamicroii-2.pdf) 
